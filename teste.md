@@ -8,7 +8,7 @@ Create autoscale and loadbalance in 2 instances
 
 - Make an application vulnerability scanner to validate if there are any vulnerabilities in these images.
 
-- Save the report to S3
+- Save the vulnerability scanner report in S3
 
 - Enable cloudtraill and log file validation
 

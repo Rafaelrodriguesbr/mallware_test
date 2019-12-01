@@ -12,6 +12,8 @@ Create autoscale and loadbalance in 2 instances
 
 - Enable cloudtraill and log file validation
 
+- Enable AWS Config service
+
 - Centralize vulnerability report access logs and cloudtraill logs in another bucket
 
 

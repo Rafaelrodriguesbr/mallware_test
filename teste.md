@@ -34,9 +34,13 @@ Create autoscale and loadbalance in 2 instances
 git clone https://github.com/rafaelaceno/opstest
 
 ```
-- Edit the `variables.tf` file with the SSH public key location 
-- Edit the `variables.tf `file with the name of the VPC that will be used for this infrastructure
-- Edit the `variables.tf` file with the name of bucket s3 that is located the project spring_bot.zip
+- Edit the file`variables.tf` 
+     -   region
+     -   aws_key_pair
+     -   key_path
+     -   vpc_id
+     -   ip_ssh
+
 
 - Execute terraform
 

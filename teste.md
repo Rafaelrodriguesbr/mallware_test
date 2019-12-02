@@ -34,7 +34,7 @@ Create autoscale and loadbalance in 2 instances
 git clone https://github.com/rafaelaceno/opstest
 
 ```
-- Edit the file`variables.tf` 
+- Edit the variables in the file`variables.tf` 
      -   region
      -   aws_key_pair
      -   key_path

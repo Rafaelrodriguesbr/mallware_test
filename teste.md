@@ -24,9 +24,8 @@ Create autoscale and loadbalance in 2 instances
 - [AWS Account](https://aws.amazon.com/)
 - [Amazon EC2 Key Pairs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)
 
-### Architecture
-![Architecture](https://user-images.githubusercontent.com/32931856/51339968-ead70780-1a74-11e9-9a31-fe0892b65e59.png)
-
+### Repository Structure
+![Captura de tela de 2019-12-01 21-04-05](https://user-images.githubusercontent.com/57097868/69922884-d29a8c00-147e-11ea-897e-2c63a46fd728.png)
 
 ### Running the project
 
